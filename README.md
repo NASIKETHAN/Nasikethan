@@ -7,7 +7,7 @@
     <p><b>Languages and Tools:</b><br>Python, Java, C, HTML, JavaScript, Bootstrap, MongoDB, SQL, TensorFlow, NumPy</p>
     <p>Contact: <a href="mailto:nasikethan2003@gmail.com">nasikethan2003@gmail.com</a></p>
   </div>
-  <div align="right">
+  <div style="position: fixed; right: 0; top: 50%; transform: translateY(-50%);">
     <img width="300" src="https://github.com/NASIKETHAN/NASIKETHAN/blob/main/giphy.gif" alt="animation" />
   </div>
 </div>
